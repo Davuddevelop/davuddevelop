@@ -18,7 +18,6 @@ I'm a young developer obsessed with building products that solve real problems. 
 - Product design & user research
 - DevOps & deployment
 
-**Tech Stack:** JavaScript | TypeScript | Python | React | Firebase | PostgreSQL | Arduino | OpenCV
 
 ---
 
