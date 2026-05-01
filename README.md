@@ -1,145 +1,134 @@
-# Hi, I'm Davud Ali 👋
+# Hi, I'm Davud Ali 👋  
 
-**Full-Stack Developer | 8th Grade | Building AI-Powered Products**
+**🚀 Full-Stack Developer | 🌐 AI & Robotics Enthusiast | 🏫 8th grade | entrepreneur **  
 
-🎓 From Baku, Azerbaijan | 🚀 Preparing for Stanford CS | 💡 Passionate about solving real-world problems with code
-
----
-
-## 🎯 About Me
-
-I'm a young developer obsessed with building products that solve real problems. At just 8th grade, I've shipped multiple SaaS platforms and hardware integrations. My goal is to study Computer Science at Stanford and continue building innovative solutions.
-
-**Core Competencies:**
-- Full-stack web development (React, Next.js, Vue)
-- Backend systems (Firebase, Node.js, PostgreSQL)
-- Machine Learning & Computer Vision (OpenCV, TensorFlow)
-- Hardware integration (Arduino, Capacitor)
-- Product design & user research
-- DevOps & deployment
-
+🎓 **Location:** Baku, Azerbaijan 🇦🇿 | 💡 Shaping the future of SaaS, Tech, and AI-powered systems  
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 About Me  
 
-### 1. Lumi - Tangible Coding Platform 🤖
-**[GitHub](https://github.com/Davuddevelop/Lumi-Kid-movement-analyzer-and-automated-adaptive-education-system)** | **Status:** Live Beta
+I am a passionate student developer committed to building impactful software products. Despite being in 8th grade, I have successfully built and shipped SaaS platforms, robotics-integrated systems, and productivity apps, solving real-world challenges.  
 
-Learn to code through physical colored blocks. Computer vision detects sequences, robot executes commands.
-
-- 🎨 Computer vision (OpenCV, HSV color detection)
-- 🤖 Hardware control (Arduino, serial communication)
-- 📊 Analytics dashboard (React + FastAPI)
-- 🎓 Pedagogical feedback system
-- **Impact:** Making coding tactile & screen-free
-
-**Why it matters:** Most EdTech is screen-based. This creates hands-on algorithmic thinking.
+My strengths lie in:  
+- Developing **AI-powered tools** for education, family safety, and performance analysis.  
+- Focusing on **privacy-first applications** that respect user data.  
+- Building scalable and impactful systems with modern technologies.  
 
 ---
 
-### 2. StudyNext - AI Student Productivity 📚
-**[Live](https://getstudynext.com)** | **[GitHub](https://github.com/Davuddevelop/StudyNext)** | **Status:** Active with Users
+## 🚀 Featured Projects  
 
-Minimalist app for students. I built it because I struggle with procrastination too.
+### 1. Sentra - AI-Powered Family Safety  
+**[GitHub Repository](https://github.com/Davuddevelop/Sentra)** | **Status:** Active Development  
 
-- 🎯 AI task prioritization
-- 🔥 Gamified streaks & rewards
-- 📱 Cross-platform (Web, iOS, Android)
-- ⚡ Ultra-fast performance
-- **Impact:** 100+ active users reducing procrastination daily
+**Description:**  
+Sentra is a behavioral monitoring platform designed to protect families from risks associated with **AI-driven tools** like ChatGPT, Claude, and Character.AI.  
 
-**Why it matters:** User validation. Real market need. Solving a problem I understand.
+#### Features:
+- 🧠 **AI Risk Detection**: Monitors emotional dependency, harmful advice, and risky roleplays with AI tools.
+- 🛡️ **Privacy-focused Dashboard**: Parents get 7-day/30-day behavior trends without storing sensitive data.
+- 🔔 **Real-Time Alerts**: Immediate push notifications for serious behavioral issues.
+- 📈 **Family Analytics**: Weekly automated reports showcasing activity logs and potential risks.
 
----
-
-### 3. RevenueLeak - B2B SaaS 💰
-**[GitHub](https://github.com/Davuddevelop/RevenueLeak)** | **Status:** MVP
-
-Detects hidden revenue loss in service businesses through contract analysis & smart alerts.
-
-- 📊 Real-time dashboard
-- 🔍 Underbilling detection
-- 📈 Margin prediction
-- ⏰ Late payment alerts
-- **Impact:** Helps agencies recover $$ through data
-
-**Why it matters:** High-value B2B problem. 1% revenue recovery = big money for small businesses.
+#### Architecture:  
+- **Frontend:** Built with Vite + Vanilla JS for high performance.
+- **Backend:** Powered by Node.js (Express) and SQLite for zero-latency local storage.  
 
 ---
 
-### 4. TconnectPhoenix - Founder Network 🚀
-**[GitHub](https://github.com/Davuddevelop/TconnectPhoenix)** | **Status:** Active Development
+### 2. Capoeira Movement Analysis System  
+**[GitHub Repository](https://github.com/Davuddevelop/Capoeira-movements-analysis-system)** | **Status:** Collaboration with the Azerbaijan Capoeira Federation  
 
-Desktop app connecting teen founders with mentors and collaborators.
+**Description:**  
+AI/ML-based tool designed to refine and analyze movements of Capoeira athletes in real-time or via video recordings.  
 
-- 👥 Smart founder discovery
-- 💬 Mentorship matching
-- 🤝 Collaboration workspace
-- 📊 Startup resources
-- **Impact:** Building community for teen entrepreneurs
+#### Features:  
+- 🎥 AI-assisted **Video Upload Analysis** with skeleton overlays.  
+- 📊 **Movement Scoring**: Real-time feedback on techniques like Ginga, Armada, and Bênção using MediaPipe.
+- 📋 Personalized **Performance Reports** for athletes.  
 
----
+#### Architecture:  
+- **Frontend**: Glassmorphic Vite-based UI design.  
+- **Backend**: Python (FastAPI) integrates with Google MediaPipe AI models.  
 
-## 📊 Portfolio Snapshot
-
-```
-Projects Built:        6
-Shipped Products:      2
-Active Users:          100+
-Total Commits:         50+
-Years of Experience:   2
-Current Grade:         8th
-```
+**Impact**: Transforming the way athletes train by applying artificial intelligence to physical movements.  
 
 ---
 
-## 💡 Philosophy
+### 3. StudyNext - AI Student Productivity Platform  
+**[Live Deployment](https://getstudynext.com)** | **[GitHub Repository](https://github.com/Davuddevelop/StudyNext)**  
 
-> *"Ship products, not projects. Build things people need, not things people think are cool."*
+**Description:**  
+A cross-platform app tackling procrastination using **AI task prioritization** and gamified streaks.  
 
-I focus on:
-- **User problems first** - Understand before building
-- **Real market validation** - Get actual users
-- **Technical depth** - Learn systems deeply
-- **Hardware + software** - Don't limit yourself to web
-- **Shipping products** - Done > perfect
+- 📱 Built for **Web, iOS, and Android** with Capacitor and Firebase.  
+- ⚡ Hosts 100+ active daily users across Azerbaijan.  
 
 ---
 
-## 🔧 Skills Breakdown
+### 4. Lumi - Tangible Coding Platform  
+**[GitHub Repository](https://github.com/Davuddevelop/Lumi-Kid-movement-analyzer-and-automated-adaptive-education-system)** | **Status:** Live Beta  
 
-| Category | Skills |
-|----------|--------|
-| **Frontend** | React, Next.js, Vue, Vite, Tailwind CSS |
-| **Backend** | Node.js, FastAPI, Firebase, PostgreSQL |
-| **ML/AI** | OpenCV, TensorFlow, AI APIs (OpenAI) |
-| **Hardware** | Arduino, Capacitor, Serial communication |
-| **DevOps** | Firebase, Vercel, Git, GitHub Actions |
-| **Languages** | JavaScript, TypeScript, Python, SQL, HTML, CSS |
+**Description:**  
+Lumi helps young students learn algorithms by creating code with physical blocks.  
 
----
+#### Features:  
+- 🎨 **Computer Vision AI** (OpenCV, HSV color detection).  
+- 🤖 **Hardware control** (Arduino, robotics integration).  
+- 📊 Provides **personalized learning dashboards**.  
 
-## 🎓 Learning Goals
-
-- [ ] Get 500+ users on StudyNext
-- [ ] Launch Lumi in 5 schools
-- [ ] Scale RevenueLeak to 10 paying customers
-- [ ] Contribute to open-source projects
-- [ ] Build an ML project (computer vision at scale)
-- [ ] Learn systems design fundamentals
+**Impact:** Makes coding accessible, tactile, and screen-free for underserved schools.  
 
 ---
 
-## 📞 Get In Touch
+### 5. Retenu - Fintech SaaS for Revenue Optimization  
+**[GitHub Repository](https://github.com/Davuddevelop/Retenu)** | **Status:** MVP  
 
-- **Email:** davudali2022@gmail.com
-- **GitHub:** [@Davuddevelop](https://github.com/Davuddevelop)
-- **Website:** [getstudynext.com](https://getstudynext.com)
-- **Location:** Baku, Azerbaijan 🇦🇿
+**Description:**  
+Real-time SaaS platform that helps small businesses detect missed revenue through data analysis.  
+
+- 📊 AI-driven **revenue recovery models**.  
+- 🔍 **Underbilling detection** for contracts.  
+- **Built using:** TypeScript, Supabase, PostgreSQL, and Next.js.  
 
 ---
 
-**Last Updated:** March 2026 | **Currently:** 8th Grade | **Next Goal:** Stanford CS
+## 📊 Portfolio At A Glance  
 
-*If you like what I'm building, consider ⭐ starring my projects or 📧 reaching out to collaborate!*
+| Metric           | Details |  
+|-------------------|---------|  
+| **Key Projects**  | 7       |  
+| **Shipped Apps**  | 2       |  
+| **Daily Users**   | 100+    |  
+| **Version Control** | 50+ Commits |  
+| **Last Updated**  | April 2026 |  
+
+---
+
+## 🔧 Technical Skills  
+
+| Area                | Tools/Technologies                |  
+|---------------------|-----------------------------------|  
+| **Frontend**        | React.js, Next.js, Vite, Tailwind CSS |  
+| **Backend**         | Node.js, Firebase, Python, PostgreSQL    |  
+| **Machine Learning**| OpenCV, MediaPipe, TensorFlow |  
+| **Hardware**        | Arduino, Robotics Integration |  
+| **Languages**       | Python, TypeScript, JavaScript   |  
+
+---
+
+## 💡 Goals  
+
+- **Short-Term Goals:**
+  - Refine **Sentra**'s dashboard to scale across schools.
+  - Enhance **Capoeira AI tools** for broader sports.
+- **Stanford Aspirations:**
+  - Expand Lumi (EdTech Robotics) under Stanford’s entrepreneurial labs.
+
+---
+
+## 📞 Get In Touch!  
+
+- **Email:** [davudali2022@gmail.com](mailto:davudali2022@gmail.com)  
+- **GitHub:** [@Davuddevelop](https://github.com/Davuddevelop)  
