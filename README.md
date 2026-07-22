@@ -1,6 +1,6 @@
 # Hi, I'm Davud Ali 👋  
 
-**🚀 Full-Stack Developer | 🌐 AI & Robotics Enthusiast | 🏫 8th grade | entrepreneur **  
+**🚀 Full-Stack Developer | 🌐 AI & Robotics Enthusiast | 🏫 9th grade | entrepreneur **  
 
 🎓 **Location:** Baku, Azerbaijan 🇦🇿 | 💡 Shaping the future of SaaS, Tech, and AI-powered systems  
 
