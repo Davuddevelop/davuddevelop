@@ -1,134 +1,71 @@
-# Hi, I'm Davud Ali 👋  
+<div align="center">
 
-**🚀 Full-Stack Developer | 🌐 AI & Robotics Enthusiast | 🏫 9th grade | entrepreneur **  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=600&lines=Solo+founder+%40+Assay;Building+security+for+AI-made+apps;Engineer+first%2C+founder+always;Shipping+in+public" alt="Typing SVG" />
 
-🎓 **Location:** Baku, Azerbaijan 🇦🇿 | 💡 Shaping the future of SaaS, Tech, and AI-powered systems  
+</div>
 
----
+<div align="center">
 
-## 🎯 About Me  
+<a href="https://assaysecurity.com"><img src="https://img.shields.io/badge/Assay-security_scanner-0B0B0F?style=for-the-badge&logo=shield&logoColor=C9A227" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-follow-0B0B0F?style=for-the-badge&logo=x&logoColor=white" /></a>
 
-I am a passionate student developer committed to building impactful software products. Despite being in 8th grade, I have successfully built and shipped SaaS platforms, robotics-integrated systems, and productivity apps, solving real-world challenges.  
+</div>
 
-My strengths lie in:  
-- Developing **AI-powered tools** for education, family safety, and performance analysis.  
-- Focusing on **privacy-first applications** that respect user data.  
-- Building scalable and impactful systems with modern technologies.  
+<br>
 
----
+### About me
 
-## 🚀 Featured Projects  
+I build things that ship. Right now that's **Assay**, an independent security scanner for apps built with Lovable, Bolt, Replit and other AI tools. I catch what the AI missed: exposed secrets, open storage, missing RLS, weak headers, before your users find them for you.
 
-### 1. Sentra - AI-Powered Family Safety  
-**[GitHub Repository](https://github.com/Davuddevelop/Sentra)** | **Status:** Active Development  
+I write the code, close the users, and read my own numbers. No team to hide behind, no excuse for slow.
 
-**Description:**  
-Sentra is a behavioral monitoring platform designed to protect families from risks associated with **AI-driven tools** like ChatGPT, Claude, and Character.AI.  
+```bash
+$ whoami
+> davud — founder, engineer, still writing the roadmap in real time
+```
 
-#### Features:
-- 🧠 **AI Risk Detection**: Monitors emotional dependency, harmful advice, and risky roleplays with AI tools.
-- 🛡️ **Privacy-focused Dashboard**: Parents get 7-day/30-day behavior trends without storing sensitive data.
-- 🔔 **Real-Time Alerts**: Immediate push notifications for serious behavioral issues.
-- 📈 **Family Analytics**: Weekly automated reports showcasing activity logs and potential risks.
+### What I'm building
 
-#### Architecture:  
-- **Frontend:** Built with Vite + Vanilla JS for high performance.
-- **Backend:** Powered by Node.js (Express) and SQLite for zero-latency local storage.  
+- 🔐 **Assay** — independence-first security scanning for AI-built apps → [assaysecurity.com](https://assaysecurity.com)
+- 🌍 Organizing hackathons and dev events with GDG Baku
+- 🎤 Ambassador, Azerbaijan AI Community
+- 🤖 Applied ML and robotics on the side
 
----
+<details>
+<summary><b>Selected wins</b></summary>
+<br>
 
-### 2. Capoeira Movement Analysis System  
-**[GitHub Repository](https://github.com/Davuddevelop/Capoeira-movements-analysis-system)** | **Status:** Collaboration with the Azerbaijan Capoeira Federation  
+- 🥇 1st place, Robotex Asia
+- 🥈 2nd place, Robotex World Championship
+- 🥇 1st place, WRO
+- 🏅 5th of 50 teams, GDG Baku Build with AI Hackathon, solo finalist
 
-**Description:**  
-AI/ML-based tool designed to refine and analyze movements of Capoeira athletes in real-time or via video recordings.  
+</details>
 
-#### Features:  
-- 🎥 AI-assisted **Video Upload Analysis** with skeleton overlays.  
-- 📊 **Movement Scoring**: Real-time feedback on techniques like Ginga, Armada, and Bênção using MediaPipe.
-- 📋 Personalized **Performance Reports** for athletes.  
+### Stack
 
-#### Architecture:  
-- **Frontend**: Glassmorphic Vite-based UI design.  
-- **Backend**: Python (FastAPI) integrates with Google MediaPipe AI models.  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,postgres,supabase,git,figma&theme=dark" />
+</div>
 
-**Impact**: Transforming the way athletes train by applying artificial intelligence to physical movements.  
+### GitHub stats
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0B0B0F&title_color=C9A227&icon_color=C9A227&text_color=F4F1EA" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0B0B0F&ring=C9A227&fire=C9A227&currStreakLabel=C9A227" width="48%" />
+</div>
 
-### 3. StudyNext - AI Student Productivity Platform  
-**[Live Deployment](https://getstudynext.com)** | **[GitHub Repository](https://github.com/Davuddevelop/StudyNext)**  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0B0B0F&title_color=C9A227&text_color=F4F1EA" width="50%" />
+</div>
 
-**Description:**  
-A cross-platform app tackling procrastination using **AI task prioritization** and gamified streaks.  
+### Off the clock
 
-- 📱 Built for **Web, iOS, and Android** with Capacitor and Firebase.  
-- ⚡ Hosts 100+ active daily users across Azerbaijan.  
-
----
-
-### 4. Lumi - Tangible Coding Platform  
-**[GitHub Repository](https://github.com/Davuddevelop/Lumi-Kid-movement-analyzer-and-automated-adaptive-education-system)** | **Status:** Live Beta  
-
-**Description:**  
-Lumi helps young students learn algorithms by creating code with physical blocks.  
-
-#### Features:  
-- 🎨 **Computer Vision AI** (OpenCV, HSV color detection).  
-- 🤖 **Hardware control** (Arduino, robotics integration).  
-- 📊 Provides **personalized learning dashboards**.  
-
-**Impact:** Makes coding accessible, tactile, and screen-free for underserved schools.  
+Chess, capoeira, calisthenics. I keep a tarantula and a couple of geckos. If you're into any of that, say hi.
 
 ---
 
-### 5. Retenu - Fintech SaaS for Revenue Optimization  
-**[GitHub Repository](https://github.com/Davuddevelop/Retenu)** | **Status:** MVP  
-
-**Description:**  
-Real-time SaaS platform that helps small businesses detect missed revenue through data analysis.  
-
-- 📊 AI-driven **revenue recovery models**.  
-- 🔍 **Underbilling detection** for contracts.  
-- **Built using:** TypeScript, Supabase, PostgreSQL, and Next.js.  
-
----
-
-## 📊 Portfolio At A Glance  
-
-| Metric           | Details |  
-|-------------------|---------|  
-| **Key Projects**  | 7       |  
-| **Shipped Apps**  | 2       |  
-| **Daily Users**   | 100+    |  
-| **Version Control** | 50+ Commits |  
-| **Last Updated**  | April 2026 |  
-
----
-
-## 🔧 Technical Skills  
-
-| Area                | Tools/Technologies                |  
-|---------------------|-----------------------------------|  
-| **Frontend**        | React.js, Next.js, Vite, Tailwind CSS |  
-| **Backend**         | Node.js, Firebase, Python, PostgreSQL    |  
-| **Machine Learning**| OpenCV, MediaPipe, TensorFlow |  
-| **Hardware**        | Arduino, Robotics Integration |  
-| **Languages**       | Python, TypeScript, JavaScript   |  
-
----
-
-## 💡 Goals  
-
-- **Short-Term Goals:**
-  - Refine **Sentra**'s dashboard to scale across schools.
-  - Enhance **Capoeira AI tools** for broader sports.
-- **Stanford Aspirations:**
-  - Expand Lumi (EdTech Robotics) under Stanford’s entrepreneurial labs.
-
----
-
-## 📞 Get In Touch!  
-
-- **Email:** [davudali2022@gmail.com](mailto:davudali2022@gmail.com)  
-- **GitHub:** [@Davuddevelop](https://github.com/Davuddevelop)  
+<div align="center">
+<sub>Building in public. Building for real.</sub>
+</div>
